@@ -21,5 +21,5 @@ My name is Patryk and I'm 16 years old. I live in Europe, more specific in South
 
 ### You can reach my by 🤙
 You can contact me using:
- - [Mail](kwasniokpatryk@gmail.com)
- - [Discord](Waterlemon#1759)
+ - [Mail](mailto:kwasniokpatryk@gmail.com)
+ - [Discord](https://discordapp.com/channels/@me/Waterlemon#1759/)
