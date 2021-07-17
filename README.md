@@ -19,7 +19,7 @@ My name is Patryk and I'm 16 years old. I live in Europe, more specific in South
  - Basic 3D designing
  - Basic electronics knowledge
 
-### You can reach my by 🤙
+### You can reach me by 🤙
 You can contact me using:
  - [Mail](mailto:kwasniokpatryk@gmail.com)
  - [Discord](https://discordapp.com/channels/@me/Waterlemon#1759/)
