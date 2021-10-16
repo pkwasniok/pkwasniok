@@ -5,6 +5,7 @@ My name is Patryk and I'm 16 years old. I live in Europe, more specific in South
  - I took part in few programming competitions like Baltie or PixBlock (I even won a few)
  - Together with my team we took 🥇 first place (ex aequo) in polish elimination of the cansat 🛰️ 2019/2020 competition
  - I took 🥉 3rd place in the competition organised by Silesian Univeristy of Technology "Elektronika by żyło się łatwiej"
+ - Created [Students Information System](https://github.com/pkwasniok/makeuc-student-information-system) and won Auth0 sponsor prize on MakeUC 2021 Hackathon 🕺
 
 ### I'm currently working on 👾
  - Bulding my own CNC Machine
@@ -14,10 +15,13 @@ My name is Patryk and I'm 16 years old. I live in Europe, more specific in South
 ### My skills 🤸
  - C++
  - Python
- - JavaScript
+ - JavaScript (Svelte, Node, React)
  - Java
  - Basic 3D designing
  - Basic electronics knowledge
+
+### My stuff
+ - [kubki.pkwasniok.pl](http://kubki.pkwasniok.pl/)
 
 ### You can reach me by 🤙
 You can contact me using:
