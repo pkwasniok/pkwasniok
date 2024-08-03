@@ -41,9 +41,8 @@
    <tr>
     <td>
      <ul>
-      <li>Mars rover</li>
-      <li>CNC machine</li>
-      <li>Ecommerce platform</li>
+      <li><a href="https://github.com/pkwasniok/sysfetch">sysfetch</a></li>
+      <li><a href="https://rakiety.knei.pl/">rakiety.knei.pl</a></li>
      </ul>
     </td>
     <td>
